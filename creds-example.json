@@ -1,0 +1,10 @@
+{
+    "vault_addr": "localhost:8200",
+    "vaulttoken": "hvs.xxxxxxxxx",
+    "subscription_id": "1111111-2222-3333-4444-555555555",
+    "client_id": "123456",
+    "client_secret": "12345",
+    "tenant_id": "1111111-2222-3333-4444-555555555",
+    "rg": "demo-rg",
+    "object_id": "1111111-2222-3333-4444-555555555"
+}
