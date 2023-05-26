@@ -1,2 +1,2 @@
 # vault-azure-secrets-demo
-Some scripts to set up and demonstrate the Azure Secrets Engine https://developer.hashicorp.com/vault/docs/secrets/azure
+Some scripts to set up and demonstrate the Azure Secrets Engine https://developer.hashicorp.com/vault/docs/secrets/azure for both Vault managed Service Principals as well as existing Service Principals.
